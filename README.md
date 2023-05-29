@@ -36,6 +36,9 @@ In order to scroll, you extend your pointer and middle finger upwards and extend
 
 To drag, pinch with your middle finger and thumb. Once you have grabed your item, keep your fingers pinched together as you move the item. Once you have placed it where you want it, resort back to the Default position and your item will be droped.
 
+# Quit Program
+To quit the program, click on the video popup window and press `q` on your keyboard
+
 
 # Needed Packages
 Opencv-python, mediapipe, pyautogui. To install them run these commands
