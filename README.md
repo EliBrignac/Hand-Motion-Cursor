@@ -1,5 +1,5 @@
 # Hand-Motion-Cursor
-Computer Vision tool that lets you use your hand control your mouse. Watch the video below to see how when I move my hand, the pointer on my screen moves as well
+Computer Vision tool that lets you use hand visuals to control your mouse. Watch the video below to see how when I move my hand, the pointer on my screen moves as well
 
 # Video Demonstration
 The video demonstration shows off what you can do by navigating throughout my GitHub. You can left click, right click, drag, drop, and scroll throught the page with you hand. You can see the gestures and what they do in the camera on the right.
